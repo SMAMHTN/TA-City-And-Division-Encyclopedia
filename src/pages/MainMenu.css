@@ -1,0 +1,47 @@
+.carddd {
+    width: 300px;
+    height: 325px;
+    border-radius: 16px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+  }
+
+  .atasan {
+    font-size: 52px;
+    font-weight: bolder;
+    height: 105px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .button {
+    display: block; 
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    width: 118px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10% 30%;
+    border-radius: 16px;
+    border: 0.2px solid rgb(0, 0, 0);
+    background-color: #b5e550;
+    margin-bottom: 24.4px;
+    text-decoration: none;
+    color: rgb(42, 42, 42);
+}
+
+
+
+.lanjutan{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
