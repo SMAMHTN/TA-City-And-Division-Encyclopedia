@@ -1,19 +1,24 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CDE",
+  "name": "City and Division Encyclopedia",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "64x64 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "earth32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "earth192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "earth512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
